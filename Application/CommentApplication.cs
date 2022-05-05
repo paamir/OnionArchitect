@@ -28,7 +28,7 @@ namespace Application
             var Comment = _commentRepository.Read(Id);
             return new CommentViewModel()
             {
-                CreationDate = Comment.CreationDate.ToString(), Id = Comment.Id, Massage = Comment.Massage,
+                CreationDate = Comment.CreationDateTime.ToString(), Id = Comment.Id, Massage = Comment.Massage,
                 Name = Comment.Name, ArticleId = Comment.ArticleId
             };
         }

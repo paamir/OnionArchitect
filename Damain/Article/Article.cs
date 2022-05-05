@@ -3,19 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using _01_FramWork.Domain;
 
 namespace Damain
 {
-    public class Article
+    public class Article : DomainBaseClass<int>
     {
-        public int  Id { get; private set; }
         public string Title { get; private set; }
         public string ShortDescription { get; private set; }
         public string Image { get; private set; }
         public string Content { get; private set; }
         public int ArticleCategoryId { get; private set; }
         public ArticleCategory ArticleCategory { get; private set; }
-        public DateTime CreationDate { get; private set; }
         public bool IsDeleted{ get; private set; }
         public List<Comment.Comment> Comments { get; set; }
 
@@ -30,7 +29,6 @@ namespace Damain
             Image = image;
             Content = content;
             IsDeleted = false;
-            CreationDate = DateTime.Now;
             ArticleCategoryId = articleCategoryId;
         }
 

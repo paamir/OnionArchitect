@@ -29,7 +29,7 @@ namespace Application
                     Id = articleCategory.Id,
                     IsDeleted = articleCategory.IsDeleted,
                     Title = articleCategory.Title,
-                    CreationDate = articleCategory.CreationDate.ToString()
+                    CreationDate = articleCategory.CreationDateTime.ToString()
                 });
             }
 

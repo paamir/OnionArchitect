@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using _01_FramWork.Domain;
 
 namespace Damain
 {
-    public class ArticleCategory
+    public class ArticleCategory : DomainBaseClass<int>
     {
-        public int Id { get; private set; }
-        public DateTime CreationDate { get; private set; }
         public string Title { get; private set; }
         public bool IsDeleted{ get; private set; }
         public List<Article> Article { get; private set; }
@@ -21,7 +20,6 @@ namespace Damain
             EmptyOrWhitespace(title);
             Title = title;
             IsDeleted = false;
-            CreationDate = DateTime.Now;
         }
 
         public void EmptyOrWhitespace(string title)

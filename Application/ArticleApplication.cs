@@ -53,7 +53,7 @@ namespace Application
                     ShortDescription = result.ShortDescription,
                     Image = result.Image,
                     ArticleCategoryId = result.ArticleCategoryId,
-                    CreationDateTime = result.CreationDate.ToString(),
+                    CreationDateTime = result.CreationDateTime.ToString(),
                     Title = result.Title
                 });
             }
@@ -72,7 +72,7 @@ namespace Application
                 Content = article.Content,
                 ShortDescription = article.ShortDescription,
                 Image = article.Image,
-                CreationDateTime = article.CreationDate.ToString(),
+                CreationDateTime = article.CreationDateTime.ToString(),
                 ArticleCategoryId = article.ArticleCategoryId
             };
         }

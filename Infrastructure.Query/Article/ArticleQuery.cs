@@ -19,7 +19,7 @@ namespace Infrastructure.Query
         {
             return _context.Articles.ToList().Where(x => x.IsDeleted == false).Select(x => new ArticleQueryModel()
             {
-                Id = x.Id, ArticleCategoryId = x.ArticleCategoryId, CreationDateTime = x.CreationDate.ToString(),
+                Id = x.Id, ArticleCategoryId = x.ArticleCategoryId, CreationDateTime = x.CreationDateTime.ToString(),
                 Image = x.Image, ShortDescription = x.ShortDescription, Title = x.Title
             }).ToList();
         }

@@ -21,7 +21,7 @@ namespace Infrastructure.EfCore.Mapping
 
             ArticleCategory.HasKey(x => x.Id);
             ArticleCategory.Property(x => x.Title).IsRequired().HasMaxLength(25);
-            ArticleCategory.Property(x => x.CreationDate);
+            ArticleCategory.Property(x => x.CreationDateTime);
             ArticleCategory.Property(x => x.IsDeleted);
 
             ArticleCategory.HasMany(x => x.Article).

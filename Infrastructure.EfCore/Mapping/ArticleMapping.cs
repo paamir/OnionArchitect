@@ -20,7 +20,7 @@ namespace Infrastructure.EfCore.Mapping
             builder.Property(x => x.ShortDescription).IsRequired().HasMaxLength(50);
             builder.Property(x => x.Image);
             builder.Property(x => x.Content).IsRequired();
-            builder.Property(x => x.CreationDate);
+            builder.Property(x => x.CreationDateTime);
             builder.Property(x => x.IsDeleted).IsRequired();
 
             builder.HasOne(x => x.ArticleCategory).

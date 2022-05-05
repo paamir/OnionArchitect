@@ -18,7 +18,7 @@ namespace Infrastructure.EfCore.Mapping
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Massage);
             builder.Property(x => x.status);
-            builder.Property(x => x.CreationDate);
+            builder.Property(x => x.CreationDateTime);
             builder.Property(x => x.Name);
 
             builder.HasOne(x => x.Article)
