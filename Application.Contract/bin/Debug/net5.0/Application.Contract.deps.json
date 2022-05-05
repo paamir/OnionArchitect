@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Application.Contract/1.0.0": {
+        "dependencies": {
+          "Damain": "1.0.0"
+        },
+        "runtime": {
+          "Application.Contract.dll": {}
+        }
+      },
+      "Damain/1.0.0": {
+        "runtime": {
+          "Damain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Damain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

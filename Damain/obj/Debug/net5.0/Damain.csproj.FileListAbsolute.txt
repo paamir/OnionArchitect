@@ -1,0 +1,12 @@
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\bin\Debug\net5.0\Damain.deps.json
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\bin\Debug\net5.0\Damain.dll
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\bin\Debug\net5.0\ref\Damain.dll
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\bin\Debug\net5.0\Damain.pdb
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\obj\Debug\net5.0\Damain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\obj\Debug\net5.0\Damain.AssemblyInfoInputs.cache
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\obj\Debug\net5.0\Damain.AssemblyInfo.cs
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\obj\Debug\net5.0\Damain.csproj.CoreCompileInputs.cache
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\obj\Debug\net5.0\Damain.dll
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\obj\Debug\net5.0\ref\Damain.dll
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\obj\Debug\net5.0\Damain.pdb
+C:\Users\amirparsa\source\repos\OnionArchitect\Damain\obj\Debug\net5.0\Damain.csproj.AssemblyReference.cache

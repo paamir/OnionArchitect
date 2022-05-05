@@ -1,0 +1,17 @@
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\bin\Debug\net5.0\Infrastructure.Query.deps.json
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\bin\Debug\net5.0\Infrastructure.Query.dll
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\bin\Debug\net5.0\ref\Infrastructure.Query.dll
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\bin\Debug\net5.0\Infrastructure.Query.pdb
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\bin\Debug\net5.0\Damain.dll
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\bin\Debug\net5.0\Infrastructure.EfCore.dll
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\bin\Debug\net5.0\Infrastructure.EfCore.pdb
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\bin\Debug\net5.0\Damain.pdb
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\obj\Debug\net5.0\Infrastructure.Query.csproj.AssemblyReference.cache
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\obj\Debug\net5.0\Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\obj\Debug\net5.0\Infrastructure.Query.AssemblyInfoInputs.cache
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\obj\Debug\net5.0\Infrastructure.Query.AssemblyInfo.cs
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\obj\Debug\net5.0\Infrastructure.Query.csproj.CoreCompileInputs.cache
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\obj\Debug\net5.0\Infrastructure.Query.csproj.CopyComplete
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\obj\Debug\net5.0\Infrastructure.Query.dll
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\obj\Debug\net5.0\ref\Infrastructure.Query.dll
+C:\Users\amirparsa\source\repos\OnionArchitect\Infrastructure.Query\obj\Debug\net5.0\Infrastructure.Query.pdb
