@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EB/3K7yt7fWnU+58lR6hW43HiFCP2N8PngD26EO8u6Asz2PTD+Vqcyxh/iWfwclmPsKnxXlv+EWEn5fmC3cvqQ==",
+  "dgSpecHash": "ZI98VYwnemIn2tw2YKakyc8guzd5u+DfrlrUX+4EJqrHGOtymj6xhHknpn8oqx5J9nUbJG4vBww9mX+tu9n6kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amirparsa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\amirparsa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

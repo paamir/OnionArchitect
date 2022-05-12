@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EnNyMc2DoP4pshusIx4NSiEba6wCSDg+3MA6cOHbt/rcO9g2IUMkBRSYkJprNqwwxkPA+TJJzAgzHTfISPfz+A==",
+  "dgSpecHash": "ZZsE5CXvKKZc8V1ut9stnnabV+y/cKQBHH1GP7913e/3wOgRHRG3i+xvbQ45AQm2xHYBS439K5LRPlimuKkhAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj",
+  "projectFilePath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amirparsa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\amirparsa\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

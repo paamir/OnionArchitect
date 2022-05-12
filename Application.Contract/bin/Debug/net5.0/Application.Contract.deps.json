@@ -14,7 +14,15 @@
           "Application.Contract.dll": {}
         }
       },
+      "01-FramWork/1.0.0": {
+        "runtime": {
+          "01-FramWork.dll": {}
+        }
+      },
       "Damain/1.0.0": {
+        "dependencies": {
+          "01-FramWork": "1.0.0"
+        },
         "runtime": {
           "Damain.dll": {}
         }
@@ -23,6 +31,11 @@
   },
   "libraries": {
     "Application.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01-FramWork/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

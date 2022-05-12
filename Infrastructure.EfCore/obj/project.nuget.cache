@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C2pZ5a8BlNvQ5Padl56qkQZ1LP3ZOJHfUlsJqp3Q+o06tLbnXtNeHeqKZC0uVS+ej051nVQINFQRcDy6zQ964w==",
+  "dgSpecHash": "h4HHBWLCq0xWibrqS0NyNQA+FdnP+a2EYMpiMGTEXk6Of+1Sao7zxHVufvjIcBFjoZfKbjr/5vKNtQmxfeYmYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj",
+  "projectFilePath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amirparsa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\amirparsa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

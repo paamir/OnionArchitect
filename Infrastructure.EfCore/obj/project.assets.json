@@ -5820,11 +5820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj",
+      "projectUniqueName": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj",
       "projectName": "Infrastructure.EfCore",
-      "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj",
+      "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj",
       "packagesPath": "C:\\Users\\amirparsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\obj\\",
+      "outputPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5845,8 +5845,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Damain\\Damain.csproj": {
-              "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Damain\\Damain.csproj"
+            "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Damain\\Damain.csproj": {
+              "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Damain\\Damain.csproj"
             }
           }
         }

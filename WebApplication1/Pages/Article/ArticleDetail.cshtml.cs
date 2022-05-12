@@ -19,16 +19,18 @@ namespace WebApplication1.Pages.Article
         {
             _articleQuery = articleQuery;
             _commentApplication = commentApplication;
+
         }
 
         public void OnGet(int Id)
         {
-            Article =  _articleQuery.Read(Id);
+            Article = _articleQuery.Read(Id);
         }
 
-        public void OnPost(CommentCreateModel comment)
+        public RedirectToPageResult OnPost(CommentCreateModel comment)
         {
             _commentApplication.Create(comment);
+            return RedirectToPage("./ArticleDetail", new {id = comment.ArticleId});
         }
     }
 }

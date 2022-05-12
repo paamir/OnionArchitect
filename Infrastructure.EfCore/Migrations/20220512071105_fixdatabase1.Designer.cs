@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.EfCore.Migrations
 {
     [DbContext(typeof(OAContext))]
-    [Migration("20220503134947_nemidonam1")]
-    partial class nemidonam1
+    [Migration("20220512071105_fixdatabase1")]
+    partial class fixdatabase1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -84,6 +84,35 @@ namespace Infrastructure.EfCore.Migrations
                     b.ToTable("ArticleCategories");
                 });
 
+            modelBuilder.Entity("Damain.Comment.Comment", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int>("ArticleId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreationDateTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Massage")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("status")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ArticleId");
+
+                    b.ToTable("Comments");
+                });
+
             modelBuilder.Entity("Damain.Article", b =>
                 {
                     b.HasOne("Damain.ArticleCategory", "ArticleCategory")
@@ -93,6 +122,22 @@ namespace Infrastructure.EfCore.Migrations
                         .IsRequired();
 
                     b.Navigation("ArticleCategory");
+                });
+
+            modelBuilder.Entity("Damain.Comment.Comment", b =>
+                {
+                    b.HasOne("Damain.Article", "Article")
+                        .WithMany("Comments")
+                        .HasForeignKey("ArticleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Article");
+                });
+
+            modelBuilder.Entity("Damain.Article", b =>
+                {
+                    b.Navigation("Comments");
                 });
 
             modelBuilder.Entity("Damain.ArticleCategory", b =>

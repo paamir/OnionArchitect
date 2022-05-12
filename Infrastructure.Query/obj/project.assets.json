@@ -5742,11 +5742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj",
+      "projectUniqueName": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj",
       "projectName": "Infrastructure.Query",
-      "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj",
+      "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj",
       "packagesPath": "C:\\Users\\amirparsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\obj\\",
+      "outputPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5767,8 +5767,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj": {
-              "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj"
+            "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj": {
+              "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj"
             }
           }
         }

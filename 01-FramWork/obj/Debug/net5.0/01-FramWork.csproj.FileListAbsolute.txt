@@ -1,0 +1,12 @@
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\bin\Debug\net5.0\01-FramWork.deps.json
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\bin\Debug\net5.0\01-FramWork.dll
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\bin\Debug\net5.0\ref\01-FramWork.dll
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\bin\Debug\net5.0\01-FramWork.pdb
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\obj\Debug\net5.0\01-FramWork.csproj.AssemblyReference.cache
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\obj\Debug\net5.0\01-FramWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\obj\Debug\net5.0\01-FramWork.AssemblyInfoInputs.cache
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\obj\Debug\net5.0\01-FramWork.AssemblyInfo.cs
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\obj\Debug\net5.0\01-FramWork.csproj.CoreCompileInputs.cache
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\obj\Debug\net5.0\01-FramWork.dll
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\obj\Debug\net5.0\ref\01-FramWork.dll
+C:\Users\amirparsa\Desktop\gitls\OnionArchitect\01-FramWork\obj\Debug\net5.0\01-FramWork.pdb

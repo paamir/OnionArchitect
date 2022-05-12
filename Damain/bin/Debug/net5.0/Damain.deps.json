@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "Damain/1.0.0": {
+        "dependencies": {
+          "01-FramWork": "1.0.0"
+        },
         "runtime": {
           "Damain.dll": {}
+        }
+      },
+      "01-FramWork/1.0.0": {
+        "runtime": {
+          "01-FramWork.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Damain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01-FramWork/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

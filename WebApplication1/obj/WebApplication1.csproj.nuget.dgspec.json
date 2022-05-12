@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application.Contract\\Application.Contract.csproj": {
+    "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application.Contract\\Application.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application.Contract\\Application.Contract.csproj",
+        "projectUniqueName": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application.Contract\\Application.Contract.csproj",
         "projectName": "Application.Contract",
-        "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application.Contract\\Application.Contract.csproj",
+        "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application.Contract\\Application.Contract.csproj",
         "packagesPath": "C:\\Users\\amirparsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application.Contract\\obj\\",
+        "outputPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Damain\\Damain.csproj": {
-                "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Damain\\Damain.csproj"
+              "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Damain\\Damain.csproj": {
+                "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Damain\\Damain.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application\\Application.csproj": {
+    "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\amirparsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application\\obj\\",
+        "outputPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -94,11 +94,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application.Contract\\Application.Contract.csproj": {
-                "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application.Contract\\Application.Contract.csproj"
+              "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application.Contract\\Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application.Contract\\Application.Contract.csproj"
               },
-              "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj": {
-                "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj"
+              "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj": {
+                "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj"
               }
             }
           }
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Damain\\Damain.csproj": {
+    "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Damain\\Damain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Damain\\Damain.csproj",
+        "projectUniqueName": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Damain\\Damain.csproj",
         "projectName": "Damain",
-        "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Damain\\Damain.csproj",
+        "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Damain\\Damain.csproj",
         "packagesPath": "C:\\Users\\amirparsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Damain\\obj\\",
+        "outputPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Damain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -189,14 +189,14 @@
         }
       }
     },
-    "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Core\\Infrastructure.Core1.csproj": {
+    "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Core\\Infrastructure.Core1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Core\\Infrastructure.Core1.csproj",
+        "projectUniqueName": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Core\\Infrastructure.Core1.csproj",
         "projectName": "Infrastructure.Core1",
-        "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Core\\Infrastructure.Core1.csproj",
+        "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Core\\Infrastructure.Core1.csproj",
         "packagesPath": "C:\\Users\\amirparsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Core\\obj\\",
+        "outputPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -217,11 +217,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application\\Application.csproj"
+              "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application\\Application.csproj"
               },
-              "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj": {
-                "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj"
+              "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj": {
+                "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj"
               }
             }
           }
@@ -260,14 +260,14 @@
         }
       }
     },
-    "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj": {
+    "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj",
+        "projectUniqueName": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj",
         "projectName": "Infrastructure.EfCore",
-        "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj",
+        "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj",
         "packagesPath": "C:\\Users\\amirparsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\obj\\",
+        "outputPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -288,8 +288,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Damain\\Damain.csproj": {
-                "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Damain\\Damain.csproj"
+              "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Damain\\Damain.csproj": {
+                "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Damain\\Damain.csproj"
               }
             }
           }
@@ -344,14 +344,14 @@
         }
       }
     },
-    "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj": {
+    "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj",
+        "projectUniqueName": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj",
         "projectName": "Infrastructure.Query",
-        "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj",
+        "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj",
         "packagesPath": "C:\\Users\\amirparsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\obj\\",
+        "outputPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -372,8 +372,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj": {
-                "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj"
+              "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj": {
+                "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.EfCore\\Infrastructure.EfCore.csproj"
               }
             }
           }
@@ -406,14 +406,14 @@
         }
       }
     },
-    "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\amirparsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -434,14 +434,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application.Contract\\Application.Contract.csproj": {
-                "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Application.Contract\\Application.Contract.csproj"
+              "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application.Contract\\Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Application.Contract\\Application.Contract.csproj"
               },
-              "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Core\\Infrastructure.Core1.csproj": {
-                "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Core\\Infrastructure.Core1.csproj"
+              "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Core\\Infrastructure.Core1.csproj": {
+                "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Core\\Infrastructure.Core1.csproj"
               },
-              "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj": {
-                "projectPath": "C:\\Users\\amirparsa\\source\\repos\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj"
+              "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj": {
+                "projectPath": "C:\\Users\\amirparsa\\Desktop\\gitls\\OnionArchitect\\Infrastructure.Query\\Infrastructure.Query.csproj"
               }
             }
           }

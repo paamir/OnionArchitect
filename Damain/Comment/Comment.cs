@@ -4,12 +4,13 @@ using System.Linq;
 using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
-using _01_FramWork.Domain;
 
 namespace Damain.Comment
 {
-    public class Comment : DomainBaseClass<int>
+    public class Comment
     {
+        public int Id { get; private set; }
+        public DateTime CreationDateTime { get; private set; }
         public string Name { get; private set; }
         public string Massage { get;private set; }
         public int status { get;private set; }//New = 0 , Confirmed = 1, Canceled = 2
@@ -18,13 +19,13 @@ namespace Damain.Comment
 
         protected Comment()
         {
-
         }
         public Comment(string name, string massage, int articleId)
         {
             Name = name;
             Massage = massage;
             ArticleId = articleId;
+            CreationDateTime = DateTime.Now;
             this.status = Statuses.New;
         }
 

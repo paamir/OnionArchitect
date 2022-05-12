@@ -1040,6 +1040,11 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "01-FramWork/1.0.0": {
+        "runtime": {
+          "01-FramWork.dll": {}
+        }
+      },
       "Application.Contract/1.0.0": {
         "dependencies": {
           "Damain": "1.0.0"
@@ -1049,6 +1054,9 @@
         }
       },
       "Damain/1.0.0": {
+        "dependencies": {
+          "01-FramWork": "1.0.0"
+        },
         "runtime": {
           "Damain.dll": {}
         }
@@ -1728,6 +1736,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "01-FramWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Application.Contract/1.0.0": {
       "type": "project",

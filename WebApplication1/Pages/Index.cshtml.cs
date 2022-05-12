@@ -30,7 +30,6 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
-            _commentApplication.Create(new CommentCreateModel() { ArticleId = 17, Massage = "alsdkjaljd", Name = "amir" });
             Articles = _articleQuery.ReadAll();
         }
     }

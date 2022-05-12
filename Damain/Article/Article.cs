@@ -7,8 +7,10 @@ using _01_FramWork.Domain;
 
 namespace Damain
 {
-    public class Article : DomainBaseClass<int>
+    public class Article
     {
+        public int Id { get; private set; }
+        public DateTime CreationDateTime { get; private set; }
         public string Title { get; private set; }
         public string ShortDescription { get; private set; }
         public string Image { get; private set; }
@@ -20,7 +22,6 @@ namespace Damain
 
         protected Article()
         {
-            
         }
         public Article(string title, string shortDescription, string image, string content, int articleCategoryId)
         {
@@ -30,6 +31,7 @@ namespace Damain
             Content = content;
             IsDeleted = false;
             ArticleCategoryId = articleCategoryId;
+            CreationDateTime = DateTime.Now;
         }
 
         public void Delete()
